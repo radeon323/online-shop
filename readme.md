@@ -1,5 +1,6 @@
-# Web-shop
-## Simple webshop based on Spring
+# Online Shop
+## Simple Online Shop based on Spring using Spring Boot
+
 
 ### Installation guide
 
